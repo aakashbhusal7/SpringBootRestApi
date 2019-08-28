@@ -1,4 +1,5 @@
 hello/Application.class
 hello/User.class
+DatabaseConfig.class
 hello/MainController.class
 hello/UserRepository.class
